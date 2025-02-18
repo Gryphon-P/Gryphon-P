@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,C#&perline=3)](https://skillicons.dev)
 
 <!--
 **Gryphon-P/Gryphon-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
