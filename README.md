@@ -1,4 +1,4 @@
-## Hi there 👋
+## I make games
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,cs,lua,latex,unity,godot,blender,vscode,visualstudio,anaconda&perline=8)](https://skillicons.dev)
