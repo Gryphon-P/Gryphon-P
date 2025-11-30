@@ -1,7 +1,7 @@
 ## I make games
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,cpp,haxe,latex,unity,unreal,godot,blender,vscode,visualstudio,anaconda&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,cpp,latex,unity,unreal,godot,blender,vscode,visualstudio,anaconda&perline=8)](https://skillicons.dev)
 
 <!--
 **Gryphon-P/Gryphon-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
